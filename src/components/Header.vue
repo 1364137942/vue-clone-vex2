@@ -48,4 +48,7 @@ h1, h2 {
   .title:hover {
     text-decoration: none;
   }
+  .title:focus {
+    text-decoration: none;
+  }
 </style>
