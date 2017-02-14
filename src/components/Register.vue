@@ -38,13 +38,7 @@
 
 <script>
     export default {
-        name: 'register',
-        data () {
-            return {}
-        },
-        mounted: function () {
-
-        }
+        name: 'register'
     }
 </script>
 

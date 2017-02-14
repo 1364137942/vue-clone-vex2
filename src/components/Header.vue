@@ -23,21 +23,16 @@
 
 <script>
 export default {
-  name: 'hello',
-  data () {
-    return {
-      msg: 'Welcome to Your Vue.js App'
-    }
-  }
+  name: 'header',
 }
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-h1, h2 {
-  font-weight: 900;
-  font-size: 52px;
-}
+  h1, h2 {
+    font-weight: 900;
+    font-size: 52px;
+  }
   nav{
     background-color: #fff;
     border-radius: 0;
